@@ -26,3 +26,24 @@
 | **Fuente** | **Times New Roman** o **Arial**, tamaño 11pt. |
 | **Interlineado** | Doble (2.0) en todo el documento. |
 | **Alineación** | Izquierda. |
+
+---
+## 3. Citación y Referencias (Issue #3)
+
+Todo el contenido no original debe estar debidamente citado para evitar el plagio.
+
+### 3.1. Estilo y Formato
+
+Se utilizará el formato **APA (7ª Edición)** para las referencias.
+
+| Tipo de Cita | Ejemplo |
+| :--- | :--- |
+| **Narrativa** | Smith (2023) argumenta que el uso de Git... |
+| **Parentética** | La colaboración mejora el control de versiones (Smith, 2023). |
+
+### 3.2. Sección de Referencias
+
+La lista de referencias se ordenará alfabéticamente al final del manual.
+
+**Ejemplo de Libro:**
+Apellido, A. A. (Año). *Título del libro en cursiva*. Editorial.
