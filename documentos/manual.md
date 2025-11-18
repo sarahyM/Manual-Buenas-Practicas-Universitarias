@@ -47,3 +47,18 @@ La lista de referencias se ordenará alfabéticamente al final del manual.
 
 **Ejemplo de Libro:**
 Apellido, A. A. (Año). *Título del libro en cursiva*. Editorial.
+
+---
+
+## 4. Presentación y Entrega (Issue #4)
+
+### 4.1. Revisión Final
+
+Antes de la entrega, realizar una revisión cruzada (o auto-revisión detallada) para verificar:
+1.  Coherencia de formato.
+2.  Ortografía y gramática.
+3.  Completitud de las referencias (que toda cita tenga su referencia y viceversa).
+
+### 4.2. Versiones y Etiquetado (Tags)
+
+El documento final debe ser etiquetado en GitHub (ej: **v1.0**), y el archivo **`CHANGELOG.md`** debe reflejar los cambios significativos que componen esa versión final.
