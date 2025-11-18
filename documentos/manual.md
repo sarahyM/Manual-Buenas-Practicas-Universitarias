@@ -12,6 +12,22 @@
 * **Comunicación:** Establecer un canal único para dudas rápidas y otro para reuniones formales (ej: Slack, Microsoft Teams).
 
 ---
+## 2. Formato Académico y Diseño (Issue #2)
+
+### 2.1. Estructura Estándar
+
+* **Partes Clave:** Portada, Índice (generado automáticamente), Introducción, Desarrollo por Secciones, Conclusiones y Referencias.
+
+### 2.2. Guía de Diseño
+
+| Elemento | Especificación |
+| :--- | :--- |
+| **Márgenes** | 2.54 cm (1 pulgada) en todos los lados. |
+| **Fuente** | **Times New Roman** o **Arial**, tamaño 11pt. |
+| **Interlineado** | Doble (2.0) en todo el documento. |
+| **Alineación** | Izquierda. |
+
+---
 ## 3. Citación y Referencias (Issue #3)
 
 Todo el contenido no original debe estar debidamente citado para evitar el plagio.
