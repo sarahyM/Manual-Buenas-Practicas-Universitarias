@@ -37,7 +37,7 @@ La primera fase es descomponer el trabajo en unidades mínimas e independientes.
 * **Definición de Hitos:** Establecer las fechas clave de entrega para cada sección (ej: Recopilación de fuentes, Redacción de la Introducción).
 * **Sistema Kanban (GitHub Projects):** Cada hito o subsección debe convertirse en un **Issue** en GitHub. Esto permite la trazabilidad y garantiza que no haya tareas olvidadas.
 
-### 1.2. Protocolo de Reuniones y Comunicación (NUEVO)
+### 1.2. Protocolo de Reuniones y Comunicación 
 
 La comunicación debe ser estructurada para minimizar la pérdida de tiempo.
 
@@ -45,7 +45,7 @@ La comunicación debe ser estructurada para minimizar la pérdida de tiempo.
 * **Actas y Acuerdos:** En el trabajo en grupo, un miembro debe redactar un resumen breve de los acuerdos y responsables, guardándolo en el repositorio (`/documentos/actas/`).
 * **Uso de Ramas Aisladas (`feature/`):** El medio principal de **comunicación colaborativa** sobre el texto es el Pull Request (PR), donde se revisa el trabajo del compañero antes de fusionarlo a la rama principal.
 
-### 1.3. Estructura de Archivos (NUEVO)
+### 1.3. Estructura de Archivos 
 
 Mantener una estructura clara evita la duplicidad de archivos y la confusión:
 
@@ -92,7 +92,7 @@ La **paráfrasis** (citar la idea de otro con tus propias palabras) debe ser pri
 * **Cita Paréntetica:** Se incluye la información al final de la frase: (Autor, Año).
 * **Cita Narrativa:** Se incorpora el apellido del autor en la narrativa: Según Martínez (2023),...
 
-### 3.2. Citas Textuales Directas (Mayor detalle)
+### 3.2. Citas Textuales Directas
 
 Solo se usan si el lenguaje es crucial para el argumento (definiciones o leyes).
 
