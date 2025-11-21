@@ -41,6 +41,8 @@ El manual debe seguir una estructura formal, típicamente requerida en informes 
 
 ### 2.1. Estructura Formal del Documento
 
+![Ilustración de estructura](/imagenes/estructura.png)
+
 Un informe completo requiere, además de las secciones de contenido, elementos de contextualización y metadatos:
 
 * **Portada:** Nombre de la universidad, título, autores, asignatura y fecha.
