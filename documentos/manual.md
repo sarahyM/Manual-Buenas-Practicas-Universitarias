@@ -15,6 +15,7 @@
 ## 2. Formato Académico y Diseño (Issue #2)
 
 ### 2.1. Estructura Estándar
+![Ilustración de estructura](/imagenes/estructura.png)
 
 * **Partes Clave:** Portada, Índice (generado automáticamente), Introducción, Desarrollo por Secciones, Conclusiones y Referencias.
 
