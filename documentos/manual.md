@@ -1,3 +1,27 @@
+# 
+# 
+ ![Logo Universidad](/imagenes/logo.png)
+# UNIVERSIDAD Valle del Momboy
+# Facultad de Ingeniería (Computación)
+# Prof: Edgardo Paolini
+
+<br><br><br><br>
+
+# MANUAL DE BUENAS PRÁCTICAS ACADÉMICAS UNIVERSITARIAS
+# 
+## PROTOCOLOS PARA TRABAJOS UNIVERSITARIOS EN GRUPO
+
+<br><br><br><br>
+
+
+**Elaborado por:**
+Sarahy Ocanto
+
+
+<br><br><br><br><br><br>
+
+---
+
 # MANUAL DE BUENAS PRÁCTICAS ACADÉMICAS
 
 ## DOCUMENTACIÓN Y CONTROL DE VERSIONES
@@ -8,7 +32,7 @@ Este manual es una guía detallada para la creación, organización y presentaci
 
 ## I. ORGANIZACIÓN Y GESTIÓN DE TIEMPOS
 
-El éxito de un trabajo en grupo se fundamenta en una planificación rigurosa y el uso eficiente de herramientas que permitan el trabajo asíncrono.
+El éxito de un trabajo en grupo se fundamenta en una planificación rigurosa y la responsabilidad compartida de todos los integrantes.
 
 ### 1.1. Estrategia de Desglose de Tareas
 
@@ -22,8 +46,8 @@ La primera fase es descomponer el trabajo en unidades mínimas e independientes.
 La comunicación debe ser estructurada para minimizar la pérdida de tiempo.
 
 * **Reuniones Asíncronas:** Utilizar herramientas de mensajería (ej. Slack, Teams) para preguntas rápidas y urgentes, y evitar saturar el correo electrónico.
-* **Actas y Acuerdos:** Después de cada reunión sincrónica (videollamada), un miembro debe redactar un resumen breve de los acuerdos y responsables, guardándolo en el repositorio (`/documentos/actas/`).
-* **Uso de Ramas Aisladas (`feature/`):** El medio principal de comunicación sobre el código/texto debe ser el **Pull Request (PR)**, donde se revisa el trabajo del compañero antes de fusionarlo a la rama principal.
+* **Actas y Acuerdos:** En el trabajo en grupo, un miembro debe redactar un resumen breve de los acuerdos y responsables, guardándolo en el repositorio (`/documentos/actas/`).
+* **Uso de Ramas Aisladas (`feature/`):** El medio principal de **comunicación colaborativa** sobre el texto es el Pull Request (PR), donde se revisa el trabajo del compañero antes de fusionarlo a la rama principal.
 
 ### 1.3. Estructura de Archivos (NUEVO)
 
