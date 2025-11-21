@@ -1,25 +1,21 @@
-# 
-# 
- ![Logo Universidad](/imagenes/logo.png)
-# UNIVERSIDAD Valle del Momboy
-# Facultad de Ingeniería (Computación)
-# Prof: Edgardo Paolini
+![Logo Universidad](/imagenes/logo.png)
+UNIVERSIDAD Valle del Momboy
+Facultad de Ingeniería (Computación)
+Prof: Edgardo Paolini
 
-<br><br><br><br>
+<br><br>
 
 # MANUAL DE BUENAS PRÁCTICAS ACADÉMICAS UNIVERSITARIAS
-# 
+
 ## PROTOCOLOS PARA TRABAJOS UNIVERSITARIOS EN GRUPO
 
-<br><br><br><br>
-
+<br><br>
 
 **Elaborado por:**
 Sarahy Ocanto
 
 
-<br><br><br><br><br><br>
-
+<br>
 ---
 
 # MANUAL DE BUENAS PRÁCTICAS ACADÉMICAS
