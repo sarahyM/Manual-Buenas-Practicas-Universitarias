@@ -1,6 +1,6 @@
 # 📚 Manual de Buenas Prácticas Académicas Universitarias (v2.0)
 
-Este repositorio contiene la **Versión 2.0** de un manual integral de buenas prácticas enfocado en la ejecución y entrega de trabajos universitarios de alto nivel. El proyecto utiliza Git y GitHub para demostrar un control de versiones riguroso y una gestión de tareas transparente.
+Este repositorio contiene la **Versión 2.0** de un manual integral de buenas prácticas enfocado en la ejecución y entrega de trabajos universitarios en grupo. El proyecto utiliza Git y GitHub para demostrar un control de versiones y una gestión de tareas transparente.
 
 ## 🎯 Contenido Principal del Manual
 
