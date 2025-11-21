@@ -1,7 +1,7 @@
-![Logo Universidad](/imagenes/logo.png)
-UNIVERSIDAD Valle del Momboy
-Facultad de Ingeniería (Computación)
-Prof: Edgardo Paolini
+![Logo Universidad](/imagenes/Logo.png)
+<br>UNIVERSIDAD Valle del Momboy
+<br>Facultad de Ingeniería (Computación)
+<br>Prof: Edgardo Paolini
 
 <br><br>
 
